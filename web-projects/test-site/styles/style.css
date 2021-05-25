@@ -1,0 +1,39 @@
+a:hover {
+  color: red;
+}
+
+html{
+  font-size: 10px;
+  font-family: 'Merriweather', serif;
+  background-color: #3F0A56;
+}
+
+h1 {
+  margin: 0;
+  font-size: 50px;
+  text-align: center;
+  padding: 20px;
+  color: #3F0A56;
+  /* WOW. WOOO..OW!!! vvv*/
+  text-shadow: 2px 1px 3px red;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #DFDF2E;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
